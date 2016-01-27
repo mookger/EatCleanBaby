@@ -1,0 +1,139 @@
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img 
+  {
+      width: 100%;
+      margin: auto;
+  }
+  body {
+	  background: url('../pics/bg00.png');
+	  font-family: "Karla";
+  }
+  a {
+	  color: #454545;
+  }
+  #headtext {
+	  font-family: "Pacifico";
+  }
+  @font-face {
+    font-family: supermarket;
+    src: url('supermarket.woff'),url('supermarket.eot?'),url('supermarket.ttf');
+
+  }
+  #menu {
+	  z-index: 10;
+	  position: fixed;
+	  width: 8em;
+  }
+  #menu2 {
+
+	  background: url('../pics/menu-02.png');
+	  padding-left: 20px;
+	  padding-right: 30px;
+	  color: #000000;
+  }
+  #login {
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  background: #000000;
+	  color: #FFFFFF;
+  }
+    #foot {
+	  padding-top: 20px;
+	  padding-bottom: 10px;
+	  background: #c2dec3;
+  }
+  #section00{
+	 text-align: center;
+  }
+  #section01{
+	 text-align: center;
+	 padding-top: 50px;
+	 padding-bottom: 50px;
+  }
+  #section02 {
+	 padding-top: 50px;
+	 padding-bottom: 20px;
+  }
+  #section03 {
+	  padding-top: 40px;
+	  padding-bottom: 30px;
+  }
+  #section04 {
+	  padding-top: 60px;
+	  padding-bottom: 120px;
+	  background: url('../pics/bg02.png');
+	  background-size: cover;
+  }
+  #header{
+	   background: url('../pics/text01.png');
+	   background-size: cover;
+	   padding-top: 15px;
+	   padding-bottom: 20px;
+  }
+  #articlehead {
+
+  }
+  #articlemenu {
+
+	  padding-top: 20px;
+	  padding-bottom: 20px;
+  }
+  #article-detail {
+	  padding-top: 20px;
+	  padding-bottom: 50px;
+  }
+  #videohead {
+	  padding-top: 20px;
+	  padding-bottom: 70px;
+	  background: url('../pics/bg02.png');
+	  background-size: cover;
+  }
+  #videodetail {
+	  padding-top: 30px;
+	  padding-bottom: 50px;
+  }
+  #questiondetail {
+	  padding-top: 30px;
+	  padding-bottom: 50px;
+  }
+  #caloriedetail {
+	  padding-top: 30px;
+	  padding-bottom: 50px;
+  }
+  
+  #calorieshead {
+	  padding-top: 70px;
+	  padding-bottom: 100px;
+	  background: url('../pics/calories/head01.png');
+
+  }
+  #heart {
+	  width: 130px;
+	  height: 60px;
+	  background: rgba(255,255,255,0.8);
+	  position:absolute;
+	  top:5px;
+	  right:20px;
+  }
+  #heart2 {
+	  width: 80px;
+	  height: 50px;
+	  background: rgba(255,255,255,0.8);
+	  position:absolute;
+	  top: 150px;
+	  right:20px;
+  }
+  #bodyabout{
+	  background: #ebedec;
+  }
+  #about{
+	  background: url('../pics/about/bg01.png');
+	  padding-bottom:50px;
+	  background-size: cover;
+  }
+  #aboutdetail {
+	  background: rgba(255,255,255,0.6);
+	  height: 375px;
+	 
+  }
+  
